@@ -1,2 +1,3 @@
-# calculadora-media
-Projeto Calculadora de média da Imersão Dev da Alura
+# Imersão Dev Alura - Projeto calculadora de média
+
+
